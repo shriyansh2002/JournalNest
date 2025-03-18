@@ -62,10 +62,5 @@ http://localhost:8080/
 2. **MongoDB Not Running:** Start MongoDB using `mongod`.
 3. **Incorrect Credentials:** Double-check username and password for MongoDB Atlas.
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name]
 
 
